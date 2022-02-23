@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the propositions sent from the Army to the Parliament by Lieut. Generall Cromwell, for the removall of severall grievances particularly expressed therein. With the names of those lords and commoners, authorized by both Houses of Parliament, for reliefe of all those souldiers, or any other persons who have done service for the Parliament, and to free them from all troubles, suites, and vexations for the same.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34517</idno>
+            <idno type="STC">Wing C6228</idno>
+            <idno type="STC">ESTC R214369</idno>
+            <idno type="EEBO-CITATION">99826552</idno>
+            <idno type="PROQUEST">99826552</idno>
+            <idno type="VID">30955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30955)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1775:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the propositions sent from the Army to the Parliament by Lieut. Generall Cromwell, for the removall of severall grievances particularly expressed therein. With the names of those lords and commoners, authorized by both Houses of Parliament, for reliefe of all those souldiers, or any other persons who have done service for the Parliament, and to free them from all troubles, suites, and vexations for the same.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 24. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Political activity --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30955:1"/>
+            <pb facs="tcp:30955:1" rendition="simple:additions"/>
+            <p>A COPY OF THE PROPOSITIONS SENT From the Army to the Parliament by Lieut. Generall <hi>Cromwell,</hi> for the removall of ſeverall grievances particularly expreſſed therein. With the Names of thoſe Lords and Com<g ref="char:EOLhyphen"/>moners, authorized by both Houſes of Parliament, for reliefe of all thoſe ſouldiers, or any other perſons who have done ſervice for the Parliament, and to free them from all troubles, ſuites, and vexations for the ſame.</p>
+            <p>
+               <hi>LONDON: Printed for</hi> G. R. <hi>May</hi> 24.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30955:2"/>
+            <pb facs="tcp:30955:2"/>
+            <head>The Copy of a Letter from an Officer in the Army, to a Perſon of honour.</head>
+            <opener>
+               <salute>Right Honourable.</salute>
+            </opener>
+            <p>I <hi>Have here incloſed, the Copy of the Propoſitions of the Army for the removeall of the agreements ſent by Lievtenant Gen. Cromwel, delivered to him, Field Marſhall Generall Skippon, Com. Ireton, and Col. Fleetwood, as the ſence of the whole Army: But the main thing which the Officers and Souldiers do expect is the paſ<g ref="char:EOLhyphen"/>ſing of the Act of Indempnity, I doubt not but theſe deſires will bee looked upon as humble repreſentations of their grievances, And</hi> I <hi>hope their will be ſuch a right vnderſtanding, that this Army will diſband in love, and they lay down their Armes in peace, and all things ſetled to Gods glory, and the peace and tranquility of the Church and Kingdome And ſo prayes</hi>
+            </p>
+            <closer>
+               <signed>Your Honourable ſervant, G. SMITH.</signed>
+               <dateline>Walden <date>the 21. of <hi>May,</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <opener>
+               <date>May 21. 1647.</date>
+            </opener>
+            <p>The Lords and Commons in Parliament do ordain and de<g ref="char:EOLhyphen"/>clare, That no perſon, or perſons whatſoever, who have ſince the beginning of this preſent Parliament. Acted, or done any Act, or thing whatſoever by Authority of Parliament, or for the ſervice or benefit thereof, by Sea or by Land, ought not to be ſued, indicted, proſecuted or moleſted for the ſame: And that every ſuch perſon or perſons whatſoever, are and ſhall be hereby fully acquitted and diſcharged, &amp;c.</p>
+            <pb facs="tcp:30955:3"/>
+            <list>
+               <item>Earle of <hi>Northumberland.</hi>
+               </item>
+               <item>Earle of <hi>Kent.</hi>
+               </item>
+               <item>Earle of <hi>Rutland.</hi>
+               </item>
+               <item>Earle of <hi>Pembroke.</hi>
+               </item>
+               <item>Earle of <hi>Lincolne.</hi>
+               </item>
+               <item>Earle of <hi>Nottingham.</hi>
+               </item>
+               <item>Earle of <hi>Suffolke,</hi>
+               </item>
+               <item>Earle of <hi>Salsbury.</hi>
+               </item>
+               <item>Earle of <hi>Warwicke.</hi>
+               </item>
+               <item>Earle of <hi>Denbigh.</hi>
+               </item>
+               <item>Earle of <hi>Middleſex.</hi>
+               </item>
+               <item>Earle of <hi>Mancheſter.</hi>
+               </item>
+               <item>Earle of <hi>Mulgrave,</hi>
+               </item>
+               <item>Earle of <hi>Stamford.</hi>
+               </item>
+               <item>Viſcount <hi>Hereford.</hi>
+               </item>
+               <item>Viſcount <hi>Say.</hi>
+               </item>
+               <item>Lord <hi>De-la-ware.</hi>
+               </item>
+               <item>Lord <hi>Berkly.</hi>
+               </item>
+               <item>Lord <hi>Wharton.</hi>
+               </item>
+               <item>Lord <hi>Willoghby.</hi>
+               </item>
+               <item>Lord <hi>North.</hi>
+               </item>
+               <item>Lord <hi>Hunſdone.</hi>
+               </item>
+               <item>Lord <hi>Gray</hi> of warke.</item>
+               <item>Lord <hi>Roberts.</hi>
+               </item>
+               <item>Lord <hi>Howard.</hi>
+               </item>
+               <item>Lord <hi>Bruce.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Commons.</head>
+               <item>Mr. <hi>Hollis.</hi>
+               </item>
+               <item>Col. <hi>Birch.</hi>
+               </item>
+               <item>Mr. <hi>Swinſon.</hi>
+               </item>
+               <item>Mr. <hi>Maynard.</hi>
+               </item>
+               <item>Mr. <hi>Boies.</hi>
+               </item>
+               <item>Mr. <hi>Recorder.</hi>
+               </item>
+               <item>Mr. <hi>Soliciter.</hi>
+               </item>
+               <item>Col. <hi>Purefoy.</hi>
+               </item>
+               <item>Col <hi>Harvey.</hi>
+               </item>
+               <item>Sir Phil. <hi>Staphleton.</hi>
+               </item>
+               <item>Col. <hi>Morley.</hi>
+               </item>
+               <item>Wil. <hi>Allenton.</hi>
+               </item>
+               <item>Livet. Gen. <hi>Maſſey.</hi>
+               </item>
+               <item>Mr. <hi>Whitlock.</hi>
+               </item>
+               <item>Sir Gilbert <hi>Garard.</hi>
+               </item>
+               <item>Sir William <hi>Waller.</hi>
+               </item>
+               <item>Mr. <hi>Edwards.</hi>
+               </item>
+               <item>Mr. <hi>Challener.</hi>
+               </item>
+               <item>Livet. Gen: <hi>Crumwell.</hi>
+               </item>
+               <item>Mr. <hi>Tate.</hi>
+               </item>
+               <item>Sir William <hi>Maſſan.</hi>
+               </item>
+               <item>Sir Sam. <hi>Luke.</hi>
+               </item>
+               <item>Mr. <hi>Liſle</hi> F. M. Gen. <hi>Skippon.</hi>
+               </item>
+               <item>Mr. Fr. <hi>Allen.</hi>
+               </item>
+               <item>Col. <hi>Walton.</hi>
+               </item>
+               <item>Mr. <hi>Rigby.</hi>
+               </item>
+               <item>Sir Iohn <hi>Maynard.</hi>
+               </item>
+               <item>Mr. <hi>Selden.</hi>
+               </item>
+               <item>Mr. <hi>Gote.</hi>
+               </item>
+               <item>Sir Will. <hi>Breurton,</hi>
+               </item>
+               <item>Mr. <hi>Grimſton.</hi>
+               </item>
+               <item>Mr. <hi>Darley.</hi>
+               </item>
+               <item>Mr. <hi>Dove,</hi>
+               </item>
+               <item>Sir Fr. <hi>Bampfield.</hi>
+               </item>
+               <item>Lord <hi>Monſon.</hi>
+               </item>
+               <item>Sir Mich. <hi>Liveſey.</hi>
+               </item>
+               <item>Sir Thomas <hi>Widdrington.</hi>
+               </item>
+               <item>Sir Ar. <hi>Hazilrigge.</hi>
+               </item>
+               <item>Mr. <hi>Bainton.</hi>
+               </item>
+               <item>Mr. <hi>Nicholes.</hi>
+               </item>
+               <item>Mr. <hi>Weaver.</hi>
+               </item>
+               <item>Mr. Nat: <hi>Fines.</hi>
+               </item>
+               <item>Col. <hi>Rainſbourough.</hi>
+               </item>
+               <item>Major. <hi>Hariſon.</hi>
+               </item>
+               <item>Mr. Wal. <hi>Long.</hi>
+               </item>
+               <item>Mr. <hi>Hollows.</hi>
+               </item>
+               <item>Mr. Mich. <hi>Corbet.</hi>
+               </item>
+               <item>Col. <hi>Thomſon.</hi>
+               </item>
+               <item>Mr. <hi>Drake.</hi>
+               </item>
+               <item>Sir Thomas <hi>Middleton.</hi>
+               </item>
+               <item>Mr. William <hi>Perpoint.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:30955:3"/>
+            <head>A Copy of the Propoſitions ſent from the Army to the Parliament, by Lievtenant Generall Cromwell for the removall of ſeverall grievances particularly expreſſed therein.</head>
+            <p>FIrſt, that whereas it pleaſes the honourable houſes of Parl. upon miſ information falſly ſuggeſted unto them, to declare and immediatly publiſh in print to to the Kingdome, that the Petition of the Army, being but on<g ref="char:EOLhyphen"/>ly an intention, did tend to put the Army into a diſtem<g ref="char:EOLhyphen"/>per and mutiny, to obſtruct the relief of <hi>Ireland,</hi> and to put conditions upon the Parl. and declaring the Petitio<g ref="char:EOLhyphen"/>ners, if they ſhall proceed therein, no leſſe then enemies to the State, and diſturbers to the Publique Peace, which ſaid heavie charge remaining upon record, as a <hi>Memo<g ref="char:EOLhyphen"/>randum</hi> of infamy upon us to poſterity; we cannot chuſe but be deeply ſenſible therof, and with amazement, won<g ref="char:EOLhyphen"/>der how ſo humble and innocent adreſſe, intented to the Generall, could beget ſo ſtrange an interpretation,</p>
+            <p n="2">2. That whereas thoſe perſons that have attempted to beget and attempt and foment diviſions betweene the Parl. and their Army, by their ſurrepticious obtaining &amp; miſrepreſenting our Petitions, and by producing other ſcandalous Letters from unknown hands by them pro<g ref="char:EOLhyphen"/>duced, the Authors whereof are concealed, &amp; not brought forth to make a judiciall proofe of thoſe things laid to our charge, which we cannot but look upon as a juſt cauſe of griefe, that the ſuggeſters of ſuch untruths ſeeme to be incouraged, and we who are innocent remain unjuſti<g ref="char:EOLhyphen"/>fied.</p>
+            <pb facs="tcp:30955:4"/>
+            <p>That divers Officers of the Army of publike and known integrity, have bin (upon what grounds we know not) ſent for to the Parl. as delinquents; Some whereof do at this preſent attend there, and cannot procure a tryall, having nothing conſiderable laid to their charge, &amp;c.</p>
+            <p n="4">4. That whereas we underſtand that the Parl. hath vo<g ref="char:EOLhyphen"/>ted a ſudden disbanding of the Army, not having made ſufficient proviſion for the auditing of our arreares, and ſtating of our accounts, our own reaſon, and experience of others, makes us ſenſible, how difficult, chargeable, &amp; uncertain the obtaining thereof will be after our disban<g ref="char:EOLhyphen"/>ding, and therefore juſtly make us ſenſible thereof.</p>
+            <p>Fiftly, That no proviſion hath bin made for the pay<g ref="char:EOLhyphen"/>ment of our dearly earned wages by the expence of our bloud, and often hazard of our lives, ſaving a vote of ſixe weekes upon disbanding, which is ſo mean a requitall of our faithfull ſervice, the Kingdome being now ſetled in peace, that it will inevitably expoſe us (eſpecially the private ſouldiers to great extremities) being hardly ſuf<g ref="char:EOLhyphen"/>ficient to maintaine many of them in their journies to their own homes.</p>
+            <p n="6">6. That nothing as yet hath beene perfected for our fu<g ref="char:EOLhyphen"/>ture ſecurity for things done as Souldiers, in relation to the warre which the exigency thereof hath compelled thereunto, &amp;c.</p>
+            <p n="7">7. That we ſtand in fear (eſpecially the private Soul<g ref="char:EOLhyphen"/>diers) of being impreſt or forced to ſerve as ſoldiers out of the Kingdom, many of them having ſpent their times freely in the publique ſervice of the Kingeome, forſa<g ref="char:EOLhyphen"/>king their trades, their only livelyhood, to which many deſire to return again for their better future livelihood.</p>
+            <p n="8">8. That whereas divers of us (eſpecially the private ſoul<g ref="char:EOLhyphen"/>diers) who were Apprentices in <hi>London,</hi> and other parts
+<pb facs="tcp:30955:4"/>of the Kingdom, have voluntarily ingaged themſelves in the ſervice being encouraged therevnto by the Parl. De<g ref="char:EOLhyphen"/>claration, ſhewing that the time that they ſhould ſo ſpend in the proſecution thereof, ſhould be ſo effectuall in order to their freedome, as if they had remained with their ſeverall reſpective Maſters, notwithſtanding which many have refuſed to give ſome of us freedomes, who may juſtly claime it by the Parliaments Declaration for that purpoſe.</p>
+            <p n="9">9. That many ſouldiers who have loſt their lives, wid<g ref="char:EOLhyphen"/>dowes who have loſt their husbands, and children their parents in this ſervice, and thereby reduced to great ex<g ref="char:EOLhyphen"/>tremities, even to beggery for want of proviſion for their ſubſiſtance, are not ſufficiently provided for a future livelyhood.</p>
+            <p n="10">10. That whereas divers perſons hath both privately and publikely laboured by aſperſions &amp; falſe calumnies to make us odious to the Kingdome, having publiſhed many ſcandalous bookes, ſuch as <hi>Mr. Edwards Gangrena,</hi> and divers others of that nature, the ſeverall particulars whereof we proteſt againſt as moſt falſe, and are confi<g ref="char:EOLhyphen"/>dent that it proceeded not from any probable ground, which may argue ſuch an intention in us, but fingly from the malice of our enemies.</p>
+            <p n="11">11. That notwithſtanding the great care of the Com<g ref="char:EOLhyphen"/>mittee and Treaſures of the Army, and the cheerfull rea<g ref="char:EOLhyphen"/>dineſſe of moſt Counties for the paying of Aſſeſments, as thoſe where we now quarter do affirme, nevertheleſſe the private ſouldiers are neceſſitated to take free quarter for the preſent, which is very irkſome unto us to bee ſo burdenſome to our friends.</p>
+            <p>Having thus according to your commands, as fully as we are able accounted unto you, what was the true ge<g ref="char:EOLhyphen"/>nuine
+<pb facs="tcp:30955:5"/>ſence of the Army, and not their imaginary con<g ref="char:EOLhyphen"/>ceits, but their grievances, that inevitably fall upon us, unleſſe the Parliament take courſe to prevent them: if the time allowed us by you would admit, we could more ful<g ref="char:EOLhyphen"/>ly demonſtrate. We aſſume the boldneſſe to intreat you to be deeply ſenſible of, and repreſent to the Parliament theſe particulars, in ſuch an humble way, and to right us if we ſhall be miſrepreſented to the Parliament by any, and ſo farre as you can cover our weakneſſes, that have or may ſlip from us, and prevent any ſcandals, that the malice of any men do ſeek herein to aſperſe us, when we ſhall be inquired into.</p>
+            <closer>
+               <hi>To the right Honourable</hi> Philip Skippon, <hi>Field-Marſhall Generall, Lieutenant Generall</hi> Cromwell, <hi>Commiſſary Gen:</hi> Ireton, <hi>and Colonell</hi> Fleetwood.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30955:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
